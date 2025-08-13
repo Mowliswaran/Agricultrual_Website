@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/%3Cyour-repo-name%3E/static/css/main.a76b09d8.css",
+    "main.js": "/%3Cyour-repo-name%3E/static/js/main.57e27e94.js",
+    "static/js/453.83facacd.chunk.js": "/%3Cyour-repo-name%3E/static/js/453.83facacd.chunk.js",
+    "static/media/Homepageimg.jpg": "/%3Cyour-repo-name%3E/static/media/Homepageimg.b3225497c4c2c63921b5.jpg",
+    "static/media/onion.jpg": "/%3Cyour-repo-name%3E/static/media/onion.4a521206624fb3bfe089.jpg",
+    "static/media/bg.jpg": "/%3Cyour-repo-name%3E/static/media/bg.5ce6b573dbbc53d88178.jpg",
+    "static/media/pesticides.jpg": "/%3Cyour-repo-name%3E/static/media/pesticides.7a1d9a72a74eb3d3d9d8.jpg",
+    "static/media/fertilisers.jpg": "/%3Cyour-repo-name%3E/static/media/fertilisers.49f7c5a5e0ed303ab505.jpg",
+    "static/media/ginger.jpg": "/%3Cyour-repo-name%3E/static/media/ginger.627ba7959aafc0f3de4a.jpg",
+    "static/media/snakegaurd.jpg": "/%3Cyour-repo-name%3E/static/media/snakegaurd.2b89784e8d76e1417d52.jpg",
+    "static/media/corn.jpg": "/%3Cyour-repo-name%3E/static/media/corn.3f57f3e1b741cb3ed6ba.jpg",
+    "static/media/seeds.jpg": "/%3Cyour-repo-name%3E/static/media/seeds.afa8d745ffb0bc7b527b.jpg",
+    "static/media/paddy.jpg": "/%3Cyour-repo-name%3E/static/media/paddy.3fc7096c740173256bde.jpg",
+    "static/media/tomato.jpeg": "/%3Cyour-repo-name%3E/static/media/tomato.52a7a929c8ac31022a93.jpeg",
+    "static/media/fertiliser9.jpg": "/%3Cyour-repo-name%3E/static/media/fertiliser9.70769fbcf141effcfe16.jpg",
+    "static/media/tools.jpg": "/%3Cyour-repo-name%3E/static/media/tools.5e3cfc5faf5ee6e47f95.jpg",
+    "static/media/bittergaurd.jpg": "/%3Cyour-repo-name%3E/static/media/bittergaurd.5e2ff94238e2c8638390.jpg",
+    "static/media/groundnut.jpeg": "/%3Cyour-repo-name%3E/static/media/groundnut.07326f1a6d52a103eb2b.jpeg",
+    "static/media/pest1.jpg": "/%3Cyour-repo-name%3E/static/media/pest1.36247be308af853e224a.jpg",
+    "static/media/bottleguard.jpg": "/%3Cyour-repo-name%3E/static/media/bottleguard.f29f3056a52cebff7c7e.jpg",
+    "static/media/cucumber.jpg": "/%3Cyour-repo-name%3E/static/media/cucumber.3d9232584f18edeb4a80.jpg",
+    "static/media/raddish.jpg": "/%3Cyour-repo-name%3E/static/media/raddish.a1a39ac64fe7cfa76ea3.jpg",
+    "static/media/Agrimix.jpg": "/%3Cyour-repo-name%3E/static/media/Agrimix.6ae4e60fe643cf2f9e4a.jpg",
+    "static/media/fertiliser8.jpeg": "/%3Cyour-repo-name%3E/static/media/fertiliser8.45a6ccc8d006b63c95af.jpeg",
+    "static/media/turmeric.jpeg": "/%3Cyour-repo-name%3E/static/media/turmeric.33e5043a6c99cc7e89ef.jpeg",
+    "static/media/sunflower.jpeg": "/%3Cyour-repo-name%3E/static/media/sunflower.1dc686c3d8cdd8f0ed2f.jpeg",
+    "index.html": "/%3Cyour-repo-name%3E/index.html",
+    "main.a76b09d8.css.map": "/%3Cyour-repo-name%3E/static/css/main.a76b09d8.css.map",
+    "main.57e27e94.js.map": "/%3Cyour-repo-name%3E/static/js/main.57e27e94.js.map",
+    "453.83facacd.chunk.js.map": "/%3Cyour-repo-name%3E/static/js/453.83facacd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76b09d8.css",
+    "static/js/main.57e27e94.js"
+  ]
+}
