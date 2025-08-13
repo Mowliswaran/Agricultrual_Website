@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f0f0f0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow-x: hidden;
+}
+
+.navi_main {
+  width: 100%;
+  max-width: 100vw;
+  height: 80px;
+  background-color: white;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navi_logo {
+  flex-shrink: 0;
+}
+
+.navi_logo_img {
+  height: 80px;
+  width: auto;
+  object-fit: contain;
+}
+
+.navi_main ul {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  flex: 1;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.navi_main ul li {
+  font-size: 20px;
+  font-weight: 600;
+  color: #2e2a2a;
+  position: relative;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.navi_main ul li::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0%;
+  height: 2px;
+  background-color: #5cb85c;
+  transition: width 0.3s ease;
+}
+
+.navi_main ul li:hover::after {
+  width: 100%;
+}
+
+.navi_cart {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  flex-shrink: 0;
+}
+
+.navi_login {
+  padding: 6px 12px;
+  border: 1px solid #5cb85c;
+  border-radius: 4px;
+  color: #5cb85c;
+  font-weight: 500;
+  font-size: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.navi_login:hover {
+  background-color: #5cb85c;
+  color: white;
+}
+
+.cart_icon {
+  position: relative;
+}
+
+.navi_cart svg {
+  font-size: 26px;
+  color: #333;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.navi_cart svg:hover {
+  transform: scale(1.2);
+}
+
+.cart_badge {
+  position: absolute;
+  top: -8px;
+  right: -10px;
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 50%;
+}

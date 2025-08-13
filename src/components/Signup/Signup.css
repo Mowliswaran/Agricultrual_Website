@@ -1,0 +1,83 @@
+.login-container {
+  background: linear-gradient(to bottom, #4CAF50, wheat);
+  width: 350px;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Heading */
+.login-container h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Input fields */
+.login-container input {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  font-size: 14px;
+  transition: border 0.3s ease;
+}
+
+.login-container input:focus {
+  border-color: #4CAF50;
+}
+
+/* Button */
+.login-container button {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(to bottom, #36b83a, rgb(237, 155, 2));
+  border: none;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.login-container button:hover {
+  background: linear-gradient(to bottom, #279c2b, rgb(185, 120, 1));
+}
+
+/* Links */
+.link-text {
+  padding: 10px;
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.padd {
+  padding-top: 20px;
+}
+
+.link-text:hover {
+  text-decoration: underline;
+}
+
+/* Message styles */
+.message {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.signlogo {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 18px;
+}
+
+.ic {
+  font-size: 30px;
+  cursor: pointer;
+}

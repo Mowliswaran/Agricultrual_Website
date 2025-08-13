@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.mm {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+
+  padding: 40px;
+  gap: 30px;
+}
+
+.overlap, .list_name, .contact_section {
+  flex: 1;
+  min-width: 250px;
+}
+
+.agri {
+  font-family: 'Pacifico';
+  font-style: italic;
+  font-size: 5rem;
+  color: #2d7d2d;
+  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+  text-align: center;
+}
+
+.product_name {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.list_name {
+  text-align: left;
+  padding-left: 10px;
+}
+
+.contact_section {
+  text-align: left;
+  padding-left: 10px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+ul li {
+  margin-bottom: 6px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+ul li a:hover {
+  color: #007bff;
+}
+
+.kk {
+  margin-top: 10px;
+  line-height: 1.6;
+}
+
+.iconns {
+  display: flex;
+  font-size: 27px;
+  gap: 15px;
+  padding-top: 10px;
+  align-items: center;
+  margin-top: 10px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #007bff;
+}

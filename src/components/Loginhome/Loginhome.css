@@ -1,0 +1,16 @@
+
+
+.bb {
+  background-image: url('../Images/bg.jpg'); /* adjust path if needed */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  height: 88vh; /* full page height */
+  width: 100%;
+  left: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

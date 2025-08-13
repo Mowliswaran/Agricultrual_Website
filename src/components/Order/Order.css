@@ -1,0 +1,136 @@
+.order-page {
+  display: flex;
+  gap: 40px;
+  padding: 30px;
+  background: #f5f7fa;
+  min-height: 80vh;
+  font-family: Arial, sans-serif;
+}
+
+/* Left Side - Form */
+.order-form-section {
+  flex: 2;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.order-form-section h2 {
+  margin-bottom: 20px;
+  color: #e94b24;
+}
+
+.order-form-section form {
+  display: flex;
+  flex-direction: column;
+}
+
+.order-form-section input,
+.order-form-section textarea {
+  margin-bottom: 15px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+}
+
+.order-form-section textarea {
+  resize: none;
+}
+
+.payment-options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin: 15px 0;
+}
+
+.payment-option {
+  background: #f1f1f1;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 2px solid transparent;
+}
+
+.payment-option.selected {
+  border-color: #29da8a;
+  background: #e8f5e9;
+}
+
+.place-order-btn {
+  background-color: #22cf81;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.place-order-btn:hover {
+  background-color: #0a9259;
+}
+
+.fin{
+    text-align: center;
+}
+
+.alg{
+    display: flex;
+    justify-content: space-between;
+}
+
+.order-summary-section {
+  flex: 1;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.order-summary-section h2 {
+  margin-bottom: 15px;
+  color: #e94b24;
+}
+
+.order-summary-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.order-summary-section li {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+}
+
+.order-summary-section hr {
+  margin: 15px 0;
+}
+
+.hhh{
+    text-align: center;
+    font-size: 33px;
+}
+
+.padding{
+    padding: 10px;
+}
+
+.aligncart{
+    font-size: 25px;
+    font-weight: 700;
+    color:white;
+    text-align: center;
+
+}
+
+.m{
+    padding: 10px;
+    background-color: #d8401a;
+}
