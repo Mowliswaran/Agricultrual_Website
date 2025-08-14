@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Agricultrual_Website/static/css/main.68a3cd69.css",
-    "main.js": "/Agricultrual_Website/static/js/main.f1f4fe34.js",
+    "main.js": "/Agricultrual_Website/static/js/main.dcffc065.js",
     "static/js/453.83facacd.chunk.js": "/Agricultrual_Website/static/js/453.83facacd.chunk.js",
     "static/media/Homepageimg.jpg": "/Agricultrual_Website/static/media/Homepageimg.b3225497c4c2c63921b5.jpg",
     "static/media/onion.jpg": "/Agricultrual_Website/static/media/onion.4a521206624fb3bfe089.jpg",
@@ -28,11 +28,11 @@
     "static/media/sunflower.jpeg": "/Agricultrual_Website/static/media/sunflower.1dc686c3d8cdd8f0ed2f.jpeg",
     "index.html": "/Agricultrual_Website/index.html",
     "main.68a3cd69.css.map": "/Agricultrual_Website/static/css/main.68a3cd69.css.map",
-    "main.f1f4fe34.js.map": "/Agricultrual_Website/static/js/main.f1f4fe34.js.map",
+    "main.dcffc065.js.map": "/Agricultrual_Website/static/js/main.dcffc065.js.map",
     "453.83facacd.chunk.js.map": "/Agricultrual_Website/static/js/453.83facacd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68a3cd69.css",
-    "static/js/main.f1f4fe34.js"
+    "static/js/main.dcffc065.js"
   ]
 }
